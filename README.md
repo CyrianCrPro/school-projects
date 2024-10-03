@@ -2,8 +2,8 @@
 
 Welcome to my portfolio of school projects, showcasing a variety of game development and 3D modeling and printing projects. Below you will find a brief description of each project, along with relevant presentation files and images.
 
-## Mineway Surfer
-**Platform:** Unity (Platform Game)  
+## Mineway Surfers
+**Platform:** Unity (Endless Runner Game)  
 **Presentation:** [Mineway Surfer Presentation (PPTX)](Mineway.pptx)
 
 ![Mineway Surfer Image](img/Mineway.webp)
