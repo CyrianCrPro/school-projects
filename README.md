@@ -12,7 +12,7 @@ Welcome to my portfolio of school projects, showcasing a variety of game develop
 
 ## Ethereal Conquest
 **Platform:** Godot (Scroll Shooter Game)  
-**Presentation:** [Ethereal Conquest Presentation (PPTX)](Ethereal.pdf)
+**Presentation:** [Ethereal Conquest Presentation (PDF)](Ethereal.pdf)
 
 ![Ethereal Conquest Image](img/Ethereal.webp)
 
