@@ -20,7 +20,7 @@ Welcome to my portfolio of school projects, showcasing a variety of game develop
 
 ## Suncharger One
 **Platform:** Solidworks, 3D Printing  
-**Design Documentation:** [Suncharger One Documentation (PDF)](link-to-pdf)
+**Design Documentation:** [Suncharger One Documentation (wordpress)](https://sunchargerone.wordpress.com)
 
 ![Suncharger One Image](img/Suncharger.webp)
 
@@ -28,7 +28,7 @@ Welcome to my portfolio of school projects, showcasing a variety of game develop
 
 ## R³ (Robot Reveil Roulant - Rolling Alarm Clock Robot)
 **Platform:** Solidworks, 3D Printing  
-**Design Documentation:** [R³ Documentation (PDF)](link-to-pdf)
+**Design Documentation:** [R³ Documentation (wordpress)](https://esmereveil.wordpress.com)
 
 ![R³ Image](img/alarm.webp)
 
